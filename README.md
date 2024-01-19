@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://tryhackme.com/p/KINGLIRK" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/KINGLIRK.png" alt="TryHackMe - KINGLIRK" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/-claudiocosta" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="-claudiocosta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/claudiohcx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="claudiohcx" height="30" width="40" /></a>
 </p>
