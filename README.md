@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://tryhackme.com/p/KINGLIRK" target="_blank"><img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/tryhackme_logo_icon_249349.png" alt="TryHackMe - KINGLIRK" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/-claudiocosta" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png)" alt="-claudiocosta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/-claudiocosta" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" alt="-claudiocosta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/claudiohcx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="claudiohcx" height="30" width="40" /></a>
 </p>
 
